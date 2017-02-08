@@ -1,0 +1,110 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Futura', sans-serif;
+  color: black;
+}
+
+.container-fluid div {
+  /*background-color: #333;*/
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+.box {
+  border: 2px solid gray;
+  width: 420px;
+  height: 200px;
+}
+
+.journey-1 {
+  background-color: white;
+}
+
+.journey-1:hover {
+  background-color: lavender;
+}
+
+.journey-2 {
+  background-color: white;
+}
+
+.journey-2:hover {
+  background-color: #777;
+}
+
+.journey-3 {
+  background-color: white;
+}
+
+.journey-3:hover {
+  background-color: #eee;
+}
+
+.journey-4 {
+  background-color: white;
+}
+
+.journey-4:hover {
+  background-color: lavender;
+}
+
+.journey-5 {
+  background-color: white;
+}
+
+.journey-5:hover {
+  background-color: #777;
+}
+
+.journey-6 {
+  background-color: white;
+}
+
+.journey-6:hover {
+  background-color: #eee;
+}
+
+.journey-7 {
+  background-color: white;
+}
+
+.journey-7:hover {
+  background-color: #eee;
+}
+
+.journey-8 {
+  background-color: white;
+}
+
+.journey-8:hover {
+  background-color: lavender;
+}
+
+.journey-9 {
+  background-color: white;
+}
+
+.journey-9:hover {
+  background-color: #777;
+}
+
+.row {
+  font-size: 40px;
+}
+
+h1 {
+	color: black;
+	vertical-align: middle;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  border: 3px solid gray;
+}
+
+@import url('http://getbootstrap.com/dist/css/bootstrap.css');
+ html, body, .container-table {
+    height: 100%;
+}
